@@ -1,0 +1,8 @@
+#add-user-form{
+  display: flex;
+  flex-direction: column;
+}
+.ng-invalid{
+  animation-name: sample;
+  animation-duration: 300ms;
+}
