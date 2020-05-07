@@ -2,5 +2,5 @@ spring:
   mongodb:
     embedded:
       storage:
-        database-dir: C:\Users\Dell\Desktop\angular
+        database-dir: C:\angular
 
